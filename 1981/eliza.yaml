@@ -1,0 +1,14 @@
+---
+metadata:
+  title: Eliza 3.0
+  publisher: Steve Grumette
+  year: 1981
+  filename: eliza.zip
+  comment: Talk to Eliza, she may be able to help you.
+diskname: eliza.vhd
+disktype: pcxt
+disksize: 5
+application:
+  - url: https://dosk8s-dist.area536.com/eliza.zip
+    label: Eliza
+os: IBMDOS200
