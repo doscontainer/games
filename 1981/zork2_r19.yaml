@@ -1,0 +1,14 @@
+---
+metadata:
+  title: Zork II The Wizard of Frobozz
+  publisher: Infocom
+  year: 1981
+  filename: zork2_r19.zip
+  comment: Release 19
+diskname: zork2_r19.vhd
+disktype: pcxt
+disksize: 5
+application:
+  - url: https://dosk8s-dist.area536.com/zork2_r19.zip
+    label: Zork II
+os: IBMDOS200
