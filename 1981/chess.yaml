@@ -1,0 +1,14 @@
+---
+metadata:
+  title: Chess
+  publisher: M.C. Rakaska, S.W. Huggins
+  year: 1981
+  filename: chess.zip
+  comment: One of the oldest PC chess games I could find.
+diskname: chess.vhd
+disktype: pcxt
+disksize: 5
+application:
+  - url: https://dosk8s-dist.area536.com/chess_rakaska_huggins.zip
+    label: Chess
+os: IBMDOS200
