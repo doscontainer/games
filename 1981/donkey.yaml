@@ -1,0 +1,14 @@
+---
+metadata:
+  title: Chess
+  publisher: IBM, Microsoft
+  year: 1981
+  filename: donkey.zip
+  comment: Racing game in GW-BASIC
+diskname: donkey.vhd
+disktype: pcxt
+disksize: 5
+application:
+  - url: https://dosk8s-dist.area536.com/donkey.zip
+    label: Donkey
+os: IBMDOS200
