@@ -1,0 +1,14 @@
+---
+metadata:
+  title: Alley Cat
+  publisher: IBM
+  year: 1984
+  comment: Created by Bill Williams of Synsoft
+  filename: alleycat.zip
+diskname: alleycat.vhd
+disktype: pcxt
+disksize: 10
+application:
+  - url: https://dosk8s-dist.area536.com/alleycat.zip
+    label: Alley Cat
+os: IBMDOS200
